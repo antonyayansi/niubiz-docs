@@ -9,7 +9,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Docs', link: '/docs/install' },
-      // { text: 'Ejemplos', link: '/api-examples' }
     ],
 
     sidebar: [
